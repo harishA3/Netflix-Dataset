@@ -21,8 +21,8 @@ The data is analyzed using pandas in Python to answer questions such as:
 1. What content is available in different countries? \
 -- More than 2/3rd of the content is movies and US has the most content followed by India and UK
    
-2. What are the different types of content on Netflix?
+2. What are the different types of content on Netflix? \
 -- Movies and TV Shows. Movies form the majority(more than 2/3rd) of content on Netflix
    
-4. Analysis of Release Year on Movies and TV Shows.
+4. Analysis of Release Year on Movies and TV Shows. \
 -- The number of Movies and TV Shows being released by Netflix has significantly peaked since 2016
