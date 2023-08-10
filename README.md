@@ -2,7 +2,7 @@
 
 This dataset consists of tv shows and movies available on Netflix as of 2021. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
-The csv file contains information about the various movies and the data related to them:
+The CSV file contains information about the various movies and the data related to them:
 
 Show ID - unique ID of that particular show \
 Type - type of the video - movie, TV Series etc. \
