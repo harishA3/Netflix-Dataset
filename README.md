@@ -15,7 +15,7 @@ Release Year - year of release \
 Rating - user rating \
 Duration - duration of the movie, TV Series etc. \
 Listed in - Genre information \
-Description - concise plot of the series\
+Description - concise plot of the series
 
 The data is analyzed using pandas in python to answer questions such as:
 1. What content is available in different countries?
